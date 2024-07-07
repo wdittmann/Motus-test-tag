@@ -1,9 +1,9 @@
 #  Motus Test Tag Simulater
 This code will alternately transmit a CTT tag and a series of LOTEK tag pulses to test and verify a Motus receiver Station. 
 
-#  base hardware: 
+*  base hardware:* 
         Adafruit Feather M0 RFM96 LoRa Radio - 433MHz - RadioFruit Product ID: 3179
-#  antenna used: 
+*  a#ntenna used:* 
         TWAYRDIO 15.4-Inch Whip Antenna, SMA Male Antenna, Dual Band 2m/70cm although smaller dual band antenna would be more appropriate for a deployed model
     
   this code will alternatively transmit a CTT test tag followed by 6 pulses of a lotek tag to facilitate 
